@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2e34c96a-db57-4ad4-b87d-6fcb9f613d7c",
+			"database_name": "sr-cambodia-activation"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
